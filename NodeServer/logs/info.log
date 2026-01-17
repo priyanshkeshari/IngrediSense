@@ -1,0 +1,8 @@
+[2026-01-06T12:11:30.886Z] [INFO] Server running in development mode on port 8080
+[2026-01-06T12:12:15.410Z] [INFO] Server running in development mode on port 8080
+[2026-01-06T12:12:16.464Z] [INFO] MongoDB Connected
+[2026-01-06T12:55:46.025Z] [INFO] Access token refreshed for user: bob@gmail.com
+[2026-01-06T13:04:24.322Z] [INFO] MongoDB Connected
+[2026-01-06T13:55:58.254Z] [INFO] Access token refreshed for user: bob@gmail.com
+[2026-01-06T13:55:58.257Z] [INFO] Access token refreshed for user: bob@gmail.com
+[2026-01-06T14:47:07.067Z] [INFO] MongoDB Connected

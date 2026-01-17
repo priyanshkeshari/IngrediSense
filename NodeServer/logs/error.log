@@ -1,0 +1,41 @@
+[2026-01-06T12:11:30.884Z] [ERROR] Error connecting to MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2026-01-06T12:11:30.886Z] [ERROR] MongoDB connection error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[2026-01-06T12:55:45.453Z] [ERROR] Token verification failed: Invalid or expired token
+[2026-01-06T12:55:45.454Z] [ERROR] Error: Invalid or expired token. Please log in again.
+[2026-01-06T12:55:45.454Z] [ERROR] Stack: Error: Invalid or expired token. Please log in again.
+    at protect (file:///Users/kunalverma/Developer/ENCODE%202026%20HACKATHON%20IIT%20GUWAHATI/IngrediSense/NodeServer/src/middleware/auth.middleware.js:52:27)
+    at Layer.handleRequest (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/lib/layer.js:152:17)
+    at /Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/index.js:295:15
+    at processParams (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/index.js:582:12)
+    at next (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/index.js:291:5)
+    at router.handle (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/index.js:186:3)
+[2026-01-06T13:55:58.198Z] [ERROR] Token verification failed: Invalid or expired token
+[2026-01-06T13:55:58.200Z] [ERROR] Error: Invalid or expired token. Please log in again.
+[2026-01-06T13:55:58.200Z] [ERROR] Stack: Error: Invalid or expired token. Please log in again.
+    at protect (file:///Users/kunalverma/Developer/ENCODE%202026%20HACKATHON%20IIT%20GUWAHATI/IngrediSense/NodeServer/src/middleware/auth.middleware.js:52:27)
+    at Layer.handleRequest (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/lib/layer.js:152:17)
+    at /Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/index.js:295:15
+    at processParams (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/index.js:582:12)
+    at next (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/index.js:291:5)
+    at router.handle (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/index.js:186:3)
+[2026-01-06T13:55:58.201Z] [ERROR] Token verification failed: Invalid or expired token
+[2026-01-06T13:55:58.201Z] [ERROR] Error: Invalid or expired token. Please log in again.
+[2026-01-06T13:55:58.202Z] [ERROR] Stack: Error: Invalid or expired token. Please log in again.
+    at protect (file:///Users/kunalverma/Developer/ENCODE%202026%20HACKATHON%20IIT%20GUWAHATI/IngrediSense/NodeServer/src/middleware/auth.middleware.js:52:27)
+    at Layer.handleRequest (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/lib/layer.js:152:17)
+    at next (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/lib/route.js:117:3)
+    at handle (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/lib/layer.js:152:17)
+    at /Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/index.js:295:15
+    at processParams (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/index.js:582:12)
+    at next (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/index.js:291:5)
+    at router.handle (/Users/kunalverma/Developer/ENCODE 2026 HACKATHON IIT GUWAHATI/IngrediSense/NodeServer/node_modules/router/index.js:186:3)
