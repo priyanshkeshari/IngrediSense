@@ -1,0 +1,3 @@
+2026-01-06 17:47:58 - health_agent - INFO - startup_event:33 - Starting Health Agent API v1.0.0
+2026-01-06 17:47:58 - health_agent - INFO - startup_event:34 - Debug mode: True
+2026-01-06 17:47:58 - health_agent - INFO - startup_event:35 - CORS origins: ['http://localhost:3000', 'http://localhost:5173', 'http://localhost:5174', 'https://ingredisense-psi.vercel.app', 'https://ingredisense-1.onrender.com']
